@@ -1,0 +1,4 @@
+Begin: equ 0A000H
+Data: equ 0A022H
+End: equ 0E022H
+Execute: equ 0A000H
