@@ -30,3 +30,7 @@ It will run for a while, and print some hexadecimal addresses on the screen. Whe
 * Being able to dump ROMs with arbitrary sizes;
 * Being able to easily change the file name of the dumped ROM;
 * Performance improvements.
+
+### Acknowledgements
+
+The Assembly part is compiled with [Glass](https://bitbucket.org/grauw/glass), a Z80 assembler written in Java created by [Laurens Holst](https://bitbucket.org/grauw/). Glass is not part of this project but it is included in the tools folder for convenience. It requires Java 8 to run. Thanks to Laurens Holst for this easy-to-use, intuitive tool.
